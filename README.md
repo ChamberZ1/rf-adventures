@@ -1,5 +1,9 @@
 # rf-adventures
-Stuff I do with an RTL-SDR v4 and Windows laptop. I became interested in radio frequencies (RF) when I was doing research on Wi-Fi hacking (specifically the difference between 2.4 GHz and 5 GHz Wi-Fi). I learned that so many things that I use have to do with RF: Wi-Fi, Bluetooth, NFC, Microwaves, radio, etc. So, I began researching RF as it was so fascinating, but the more I dug, the more complex it got. I am a hands-on learner so I figured I'd acquire an RTL-SDR dongle and start out with simpler goals like tuning in to radio stations, public police radio, and air traffic. I'm documenting my journey here so I can come back and review my notes. I'll do occasional clean-ups as this repo expands.
+This repo contains documentation of my RF exploration with an RTL-SDR v4 and a Windows laptop. 
+
+I became interested in radio frequencies (RF) while researching Wi-Fi hacking, specifically the differences between 2.4 GHz and 5 GHz Wi-Fi. I realized that so many technologies operate in the RF range: Wi-Fi, Bluetooth, NFC, Microwaves, radio, and more. 
+
+As I dug further into RF, I quickly became overwhelmed with information. Being a hands-on learner, I decided to acquire an RTL-SDR dongle and start out with simpler goals like tuning in to radio stations, public police radio, and air traffic. I'm documenting my experiment, observations, and notes here so I can review and build on them over time. I’ll periodically clean things up as the repo evolves.
 
 # Setup
 ### What I used
