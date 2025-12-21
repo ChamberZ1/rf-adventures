@@ -8,7 +8,7 @@ Radio Frequency (RF) is the portion of electromagnetic spectrum (approx. 3kHz - 
 - Police radar, baseball guns, and weather radar all operate within the RF range (See: [**National Radio Astronomy Observatory**](https://public.nrao.edu/news/astronomical-radar-illuminating-our-understanding-of-the-solar-system/#:~:text=Radar%20is%20a%20wonderful%20tool,far%20away%20an%20object%20is.)).
 - Radio waves are used and are actually crucial in mapping out the structure of the Milky Way (See: [**National Radio Astronomy Observatory**](https://public.nrao.edu/radio-astronomy/our-milky-way-galaxy/#:~:text=Radio%20waves%2C%20however%2C%20travel%20through,Milky%20Way%20Galaxy's%20dusty%20lanes.), [**Hydrogen Line**](https://en.wikipedia.org/wiki/Hydrogen_line)).
 - There is a "hiss" in the universe which spans across various frequencies within the RF range. This "hiss" proved that our galaxy was full of high-energy activity, emitting radio waves. It confirmed the Milky Way is a Radio Source, and the Hydrogen 21cm line let us map out the structure of our galaxy. (See: [**Astronomical radio source**](https://en.wikipedia.org/wiki/Astronomical_radio_source#:~:text=He%20found%20%22...a,and%20was%20completed%20in%201941.)).
-- ## HUMAN BODIES
+## HUMAN BODIES
 - Radio waves can affect our bodies. Pick up here
 - https://www.hardhattraining.com/how-does-rf-affect-humans/#:~:text=RF%20and%20MW%20energy%20can,sent%20across%20the%20cell%20membrane.
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC11298025/#:~:text=The%20brain%20regulates%20cognitive%20and,18%2C19
