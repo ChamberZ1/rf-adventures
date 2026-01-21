@@ -19,3 +19,7 @@ So the size, length, angle, location, and gender of antennas matter. And I know 
 ### SDR++
 1. Download SDR++ 
 2. Looking at the interface, this is like reading German. I know nothing on the left hand panel.. PPM Corection, Bias T, Tuner AGC, Invert IQ, NFM, WFM, Squelch, etc. Brother what? HUH?
+
+### Future Ambitions
+1. Go through the [SDR with HackRF](https://www.youtube.com/watch?v=BeeSN14JUYU&list=PLu0BPYzTjiHru1KmPThmbY-8rRm3EWvUQ) series on YouTube.
+2. Create UAV (drones) radar/scanner.
