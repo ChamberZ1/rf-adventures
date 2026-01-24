@@ -1,7 +1,14 @@
 # What is Radio Frequency?
 Radio Frequency (RF) is the portion of electromagnetic spectrum (approx. 3kHz - 300GHz) used by radios and other modern wireless systems. 
 
-# RF IS F***ING FASCINATING
+## Notes
+- Lower frequencies travel further and better through physical obstacles like walls. Higher frequencies are faster and carry more data.
+- For space communication we actually use higher frequencies because low frequencies bounce off the Ionosphere and come back to Earth, making them good for "over-the-horizon" radio on Earth, but not effective for space. High frequencies can pierce through the atmosphere and the Ionosphere. Furthermore, in space, there aren't as many walls and trees everywhere to block the signal.
+- 
+
+
+
+# RF Applications
 ## SPACE
 - Radio waves are used by entities like NASA to study planetary bodies in our solar system (See: [**How NASA Uses Gravity and Radio Waves to Study Planets and Moons**](https://www.youtube.com/watch?v=NTo5-YsjWlI)).
 - Planetary radar (🪦🕊️ Arecibo) bounces radio waves off celestial bodies to map their size, shape, composition, and precise distance. By measuring the signal's echo, scientists gain a highly accurate three-dimensional perspective by measuring both the target's range and velocity (See: [**University of Central Florida**](https://fsi.ucf.edu/planetary-radar/#:~:text=Using%20planetary%20radar%2C%20scientists%20study,toward%20the%20direction%20of%20Earth.), [**National Radio Astronomy Observatory**](https://public.nrao.edu/news/astronomical-radar-illuminating-our-understanding-of-the-solar-system/#:~:text=Because%20the%20distance%20and%20motion,asteroids%20that%20pass%20near%20Earth.)).
